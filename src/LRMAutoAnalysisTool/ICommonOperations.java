@@ -1,6 +1,7 @@
 package LRMAutoAnalysisTool;
 
 import java.util.ArrayList;
+//Includes interface implementation
 
 public interface ICommonOperations {
 	public boolean startRun(LRMAutoAnalysisTool inst);
